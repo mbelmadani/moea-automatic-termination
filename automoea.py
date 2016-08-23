@@ -1,8 +1,5 @@
 """
     __author__ = "Manuel Belmadani"
-    __copyright__ = "Copyright 2016, MotifGP"
-    __credits__ = ["Manuel Belmadani"]
-
     __license__ = "LGPL v3.0"
     __version__ = "1.0.0"
     __maintainer__ = "Manuel Belmadani"

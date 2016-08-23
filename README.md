@@ -2,7 +2,9 @@
 Implementation of the MOEA Entropy based automatic termination algorithm (Saxena et al. 2016)
 
 # Description
-This code provides an implementation of the Entropy-Based Termination Criterion for Multiobjective Evolutionary Algorithms described in Saxena, D. K., Sinha, A., Duro, J. A. & Zhang, Q. Entropy-Based Termination Criterion for Multiobjective Evolutionary Algorithms. IEEE Trans. Evol. Comput. 20, 485–498 (2016). - http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7273886
+This code provides an implementation of the Entropy-Based Termination Criterion for Multiobjective Evolutionary Algorithms described in the publication:
+
+- Saxena, D. K., Sinha, A., Duro, J. A. & Zhang, Q. Entropy-Based Termination Criterion for Multiobjective Evolutionary Algorithms. IEEE Trans. Evol. Comput. 20, 485–498 (2016). - http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7273886
 
 # What's in here?
 

@@ -29,4 +29,4 @@ Publications
 
 # Support and contributions
 
-Feel free to contact Manuel Belmadani <mbelm006@uottawa.ca> for questions or comments. Pull requests are welcome! There's also the issues section (https://github.com/mbelmadani/moea-automatic-termination/issues) where you can file bugs or request enhancements.
+Feel free to contact Manuel Belmadani \<mbelm006@uottawa.ca\> for questions or comments. Pull requests are welcome! There's also the issues section (https://github.com/mbelmadani/moea-automatic-termination/issues) where you can file bugs or request enhancements.

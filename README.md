@@ -24,11 +24,6 @@ As an additional example, a project using the MOEA Automatic Termination algorit
 
 See motifgp/termination in the development branch (git checkout development) of https://github.com/mbelmadani/motifgp
 
-Publications 
-- Manuel Belmadani and Marcel Turcotte. (In press) MotifGP: Using multi-objective evolutionary computing for mining network expressions in DNA sequences. In IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB 2016), Chiang Mai, Thailand, October, 5-7, 2016. Preprint available upon request.
-- Manuel Belmadani. MotifGP: DNA motif discovery using multiobjective evolution. Master of computer science, University of Ottawa, School of Electrical Engineering and Computer Science, 2016. Available from University of Ottawa Research under: http://www.ruor.uottawa.ca/handle/10393/34213
-
-
 # Support and contributions
 
 Feel free to contact Manuel Belmadani \<mbelm006@uottawa.ca\> for questions or comments. Pull requests are welcome! There's also the issues section (https://github.com/mbelmadani/moea-automatic-termination/issues) where you can file bugs or request enhancements.

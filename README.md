@@ -8,7 +8,7 @@ This code provides an implementation of the Entropy-Based Termination Criterion 
 
 The algorithm is implemented through the update() method of the MOEATerminationDetection class. It's initialized with the n_s (generations to consider), n_p (decimal places to consider) and n_b (number of bins to use to partition the solution space during dissimilarity calculation) parameters, and DEBUG prints the mean and standard deviation of the dissimilarity measure at each generation.
 
-Running python automoea.py will run a basic example set in __main__ at the bottom of the file. There is also a modified example of the knapsack problem moea example borrowed from the DEAP project (https://github.com/DEAP/deap). The algorithm class is modified to use the MOEATerminationDetection. To install this, please install DEAP (pip install deap --user) and run it with python knapsack.py. DEAP is described in these publications:
+Running python automoea.py will run a basic example set in __main__ at the bottom of the file. There is also a modified example of the knapsack problem moea example borrowed from the DEAP project (https://github.com/DEAP/deap). The algorithm class is modified to use the MOEATerminationDetection. To run this example, please install DEAP (pip install deap --user) and run it with python knapsack.py. DEAP is described in these publications:
 
 - François-Michel De Rainville, Félix-Antoine Fortin, Marc-André Gardner, Marc Parizeau and Christian Gagné, "DEAP -- Enabling Nimbler Evolutions", SIGEVOlution, vol. 6, no 2, pp. 17-26, February 2014. Paper
 

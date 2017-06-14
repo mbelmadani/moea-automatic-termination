@@ -25,7 +25,7 @@ Running python automoea.py will run a basic example set in __main__ at the botto
 
 As an additional example, a project using the MOEA Automatic Termination algorithm and DEAP is MotifGP; a motif discovery engine for mining network expressions in DNA sequences.
 
-See motifgp/termination in the development branch (git checkout development) of https://github.com/mbelmadani/motifgp
+See the subdirectory motifgp/motifgp/termination/ (https://github.com/mbelmadani/motifgp/tree/master/motifgp/termination)
 
 # Support and contributions
 
